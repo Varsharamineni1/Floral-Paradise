@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-style: oblique;
+    /* border: 1px solid black; */
+}
+.navbar-brand{
+    width: 6%;
+}
+.navbar{
+    background-color:orchid;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: rgb(228, 50, 18);
+}
+.bgimg{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/037/978/144/non_2x/ai-generated-vivid-colourful-bouquet-in-a-transparent-glass-vase-bright-sunlight-beautiful-flower-arrangement-photo.jpg');
+    width: 100vw;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.hhead{
+
+    color: black;
+    margin-top: 2%;
+    font-size: 50px;
+}
+.hbtn{
+    width: 20%;
+    font-size: 20px;
+    background-color: #e00995;
+}
+.btn{
+    background-color: #f50eab;
+}
+/* about */
+.apara{
+    font-size: 25px;
+    color: #b51041;
+
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;
+}
+
+/* Products */
+.card-title{
+    color: rgb(109, 12, 44);
+}
+.card-text{
+    color: red;
+}
+.space div{
+    border: 10px solid white;
+}
+
+#contact {
+    padding: 50px 0;
+}
+
+#contact h1 {
+    margin-bottom: 30px;
+}
+/* payment */
+#payment{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/032/577/255/non_2x/flowers-in-the-field-flowers-nature-nature-hd-wallpaper-ai-generated-free-photo.jpg');
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+.input-group-text{
+    background-color: rgb(195, 28, 151);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#payment h1{
+    margin-bottom: 80px;
+}
+/* Contact */
+#contact{
+    background-image: url('https://wallpapers.com/images/featured/flower-hd-7wfcjc1pnr06bx1z.jpg');
+    width: 100vw;
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    
+}
+/* footer */
+.fbgimg{
+    background-color: rgb(62, 1, 32);
+}
+.fhead{
+    color: white;
+    text-decoration: underline solid rgb(61, 2, 25);
+}
+.ffour h6{
+    color: wheat;
+}
+.ficons{
+    text-align: center;
+    padding: 1%;
+}
+.ficons i{
+    color: #f10994;
+    font-size: 35px;
+    padding: 1.5%;
+}
+.ficon i:hover{
+    color: red;
+}
+/* Product Page */
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
